@@ -1,5 +1,6 @@
 [gerrit]
-host=review.openstack.org
-port=29418
-project=openstack/cinder.git
-defaultbranch=stable/mitaka
+host=202.96.135.238
+port=39418
+project=Hybrid-Cloud/cinder
+defaultremote=gerrit
+defaultbranch=storage-gateway
